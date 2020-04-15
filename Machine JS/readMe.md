@@ -8,7 +8,15 @@ Empesemos por hablar de machine learning
 A hora pasemos a hablar de la capacidad de los navegadores para soportar algoritmos de Machine Learning.
 
 ### Brain.js
-
-
+**instalacion de brain.js**
+Para hacer uso de brain.js en nuestros proyectos de node deberemos hacer uso de la instruccion:
+'''
+npm install brain
+'''
 
 ### Tensorflow.js
+**instalacion de tensorflow.js**
+Para hacer uso de brain.js en nuestros proyectos de node deberemos hacer uso de la instruccion:
+'''
+npm install tensorflow
+'''
