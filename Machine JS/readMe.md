@@ -1,4 +1,4 @@
-# Machine learning Con js
+# Machine Learning con Js
 En esta ocacion aprenderemos a trabajar algunos de los conceptos fundamentales de Machine Learning en js. Para realizar esta actividad solo necesitaras contar con acceso a internet, un navegador o node.js instalado en tu equipo de computo.
 
 ### Machine learning
