@@ -50,3 +50,8 @@ Para hacer uso de brain.js en nuestros proyectos de node deberemos hacer uso de 
 ```
 npm install tensorflow
 ```
+
+### Slides
+
+* [Berlin](https://docs.google.com/presentation/d/1KLSQrCIf0hy02zlv-YR3_0GLb5F5XuypTy1hpsCAOvI/edit?usp=sharing)
+* [SG + Dev.Circle](https://docs.google.com/presentation/d/12TwOsjPgS9qJbCyK82DBhAGAozN8tXtlVo8HH8_7x28/edit?usp=sharing)
