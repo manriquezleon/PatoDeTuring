@@ -52,15 +52,14 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Node.js](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Python](https://maven.apache.org/) - Dependency Management
+* [Flutter](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [React](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Angular](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Svelte](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
@@ -72,7 +71,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **PatodeTuring** - *Initial work* - [Patodeturing](https://github.com/Alquimista3301)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
