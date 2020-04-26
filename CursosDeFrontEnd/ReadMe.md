@@ -11,6 +11,7 @@ tags: #js #fundamentos #español #html
 
 * Un navegador con acceso a internet.
 * Instalar un editor de codigo de tu preferencia.
+
 **Nota:**
 * Haber tomado el curso basico de fundamentos de HTML, CSS y JS Moderno puede ser una buena idea para evitar que te atores por algunos conceptos, pero no son necesarios ya que este curso esta orientado a personas que estan dando sus primeros pasos.
 
