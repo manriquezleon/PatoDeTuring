@@ -30,3 +30,43 @@ pero, por supuesto, JavaScript es la implementación más popular y ampliamente 
 ¿Por qué este nombre extraño? Ecma International es una asociación suiza de normas que se encarga de definir las normas internacionales.
 
 Cuando se creó JavaScript, Netscape y Sun Microsystems lo presentaron a Ecma y le dieron el nombre de ECMA-262 alias ECMAScript .
+## Primeros Pasos
+La sintaxis define el conjunto de reglas con las cuales nosotros vamos a escribir programas. Cada especificación de lenguaje define su propia sintaxis.
+
+Un programa JavaScript puede estar compuesto de :
+
+* Variables : representa un bloque de memoria con nombre que puede almacenar valores para el programa.
+
+* Literales : representa valores constantes / fijos.
+
+* Operadores : símbolos que definen cómo se procesarán los operandos.
+
+* Palabras clave : palabras que tienen un significado especial en el contexto de un idioma.
+
+## Bienvenido a las variables en js
+
+```js
+
+```
+
+## Operadores
+
+## Condicionales
+
+## Ciclos
+
+## Funciones
+
+## Eventos en JS
+
+## Iteradores
+
+## Objetos
+
+## Clases
+
+## Promises
+
+## Error Handling
+
+## Proximos Pasos
