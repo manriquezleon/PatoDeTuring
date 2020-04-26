@@ -310,6 +310,7 @@ La salida del código anterior es como se muestra a continuación:
 
 number
 object
+
 ## Operadores
 
 ## Condicionales
