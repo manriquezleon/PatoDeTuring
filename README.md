@@ -1,6 +1,6 @@
 # [El Pato de Turing](https://www.youtube.com/channel/UCpaTld6qX3rt9lDPXqV0bcA)
 
-@PatoDeTuring es una comunidad amigable donde puedes aprender a programar gratis, asi como a desarrollar habilidades en ciencia de datos y ciencias de la computación. Está dirigido por una organización sin fines de lucro 501 (c) (3) apoyada por donantes para ayudar a millones de adultos ocupados a hacer la transición a la tecnología. Nuestra comunidad actualmente esta buscando ayudar a más de 100,000 personas a obtener su primer trabajo de desarrollador en toda Latino America y tu tambien puedes formar parte de este gran proyecto.
+**@PatoDeTuring** es una comunidad amigable donde puedes aprender a programar gratis, asi como a desarrollar habilidades en ciencia de datos y ciencias de la computación. Está dirigido por una organización sin fines de lucro 501 (c) (3) apoyada por donantes para ayudar a millones de adultos ocupados a hacer la transición a la tecnología. Nuestra comunidad actualmente esta buscando ayudar a más de 100,000 personas a obtener su primer trabajo de desarrollador en toda Latino America y tu tambien puedes formar parte de este gran proyecto.
 
 Nuestro plan de estudios de desarrollo web completo es completamente gratuito y a su propio ritmo. Tenemos muchos desafíos de programacion interactivos para ayudarte a ampliar tus habilidades.
 
