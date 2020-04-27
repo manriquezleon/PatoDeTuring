@@ -1,65 +1,25 @@
 # [El Pato de Turing](https://www.youtube.com/channel/UCpaTld6qX3rt9lDPXqV0bcA)
+
+@PatoDeTuring es una comunidad amigable donde puedes aprender a programar gratis, asi como a desarrollar habilidades en ciencia de datos y ciencias de la computación. Está dirigido por una organización sin fines de lucro 501 (c) (3) apoyada por donantes para ayudar a millones de adultos ocupados a hacer la transición a la tecnología. Nuestra comunidad actualmente esta buscando ayudar a más de 100,000 personas a obtener su primer trabajo de desarrollador en toda Latino America y tu tambien puedes formar parte de este gran proyecto.
+
+Nuestro plan de estudios de desarrollo web completo es completamente gratuito y a su propio ritmo. Tenemos muchos desafíos de programacion interactivos para ayudarte a ampliar tus habilidades.
+
 En este Repo podrás encontrar el contenido del proyecto @PatoDeTuring, ejemplos, demos y referencias 🐙
 Da clic aqui para 👉 [ir al canal](https://www.youtube.com/channel/UCpaTld6qX3rt9lDPXqV0bcA)
 
-## Getting Started
+### Tabla de contenido
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Built With
-
-* [Node.js](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Python](https://maven.apache.org/) - Dependency Management
-* [Flutter](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [React](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Angular](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Svelte](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Regex.
+* Fundamentos de ES6.
+* Fundamentos de Angular9.
+* Dart para Flutter Developers.
+* Algoritmos en JS.
+* Fundamentos de desarrollo Web
+* Curso de Front-End By Facebook Developer Circle: Mexico City
+* Curso de Python para ciencia de datos.
+* Bootcamp Ciencia de datos en R.
+* Bootcamp Ciencia de datos en Python.
+* Procesamiento de Lenguaje natural en Python.
 
 ## Contributing
 
@@ -73,15 +33,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **PatodeTuring** - *Initial work* - [Patodeturing](https://github.com/Alquimista3301)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
