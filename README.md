@@ -4,6 +4,8 @@
 
 Nuestro plan de estudios de desarrollo web completo es completamente gratuito y a su propio ritmo. Tenemos muchos desafíos de programacion interactivos para ayudarte a ampliar tus habilidades.
 
+Nuestro bootCamp de Ciencia de datos es completamente gratuito y a su propio ritmo. Tenemos muchos desafíos interactivos para ayudarte a ampliar tus habilidades y que te retaran a iniciar una carrera como cientifico de datos.
+
 En este Repo podrás encontrar el contenido del proyecto @PatoDeTuring, ejemplos, demos y referencias 🐙
 Da clic aqui para 👉 [ir al canal](https://www.youtube.com/channel/UCpaTld6qX3rt9lDPXqV0bcA)
 
