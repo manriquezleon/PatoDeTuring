@@ -313,6 +313,26 @@ object
 
 ## Operadores
 
+Una expresión es un tipo especial de declaración que se evalúa como un valor. Cada expresión se compone de -
+
+**Operandos o Valores** : representa los datos.
+
+**Operador** : define cómo se procesarán los operandos para producir un valor.
+
+Considera la siguiente expresión: 2 + 3. Aquí en la expresión, 2 y 3 son operandos y el símbolo + (más) es el operador. JavaScript admite los siguientes tipos de operadores:
+
+* Operadores aritméticos
+* Operadores logicos
+* Operadores relacionales
+* Operadores bit a bit
+* Operadores de Asignación
+* Operadores ternarios / condicionales
+* Operadores de cadenas
+* Operadores de tipo
+* El operador nulo
+
+
+
 ## Condicionales
 
 ## Ciclos
