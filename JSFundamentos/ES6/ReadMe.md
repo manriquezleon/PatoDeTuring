@@ -315,11 +315,11 @@ object
 
 Una expresión es un tipo especial de declaración que se evalúa como un valor. Cada expresión se compone de -
 
-**Operandos o Valores** : representa los datos.
+**Operandos o Valores** : son quienes representa los datos.
 
-**Operador** : define cómo se procesarán los operandos para producir un valor.
+**Operador** : define cómo se procesarán los operandos/valores para producir un valor o resultado.
 
-Considera la siguiente expresión: 2 + 3. Aquí en la expresión, 2 y 3 son operandos y el símbolo + (más) es el operador. JavaScript admite los siguientes tipos de operadores:
+Considera la siguiente expresión: 2 - 1. Aquí en la expresión, 2 y 1 son operandos y el símbolo -(menos) es el operador. JavaScript admite los siguientes tipos de operadores:
 
 * Operadores aritméticos
 * Operadores logicos
@@ -330,6 +330,21 @@ Considera la siguiente expresión: 2 + 3. Aquí en la expresión, 2 y 3 son oper
 * Operadores de cadenas
 * Operadores de tipo
 * El operador nulo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -352,3 +367,8 @@ Considera la siguiente expresión: 2 + 3. Aquí en la expresión, 2 y 3 son oper
 ## Error Handling
 
 ## Proximos Pasos
+
+# Referencias: 
+
+* [developer.mozilla.org](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia)
+* [desarrolloweb.com](https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html)
