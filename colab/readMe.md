@@ -12,7 +12,7 @@ Durante este fast course de Google Colab aprenderas a usar uno de los entornos m
 
 ## Graficar nuestros resultados.
 
-## Proximos pasos.👨🏽‍💻
+## Proximos pasos.📚
 
 * Introduccion a Python.
 * Python para ciencia de datos.
