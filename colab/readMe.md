@@ -12,7 +12,7 @@ Durante este fast course de Google Colab aprenderas a usar uno de los entornos m
 
 ## Graficar nuestros resultados.
 
-## Proximos pasos.
+## Proximos pasos.👨🏽‍💻
 
 * Introduccion a Python.
 * Python para ciencia de datos.
@@ -23,3 +23,5 @@ Durante este fast course de Google Colab aprenderas a usar uno de los entornos m
 * Introduccion a la ciencia de datos con Python.
 * Fundamentos de R para ciencia de datos.
 * Ciencia de datos con R, de colibris a ciudades.
+
+## Referencias , fuentes y articulos interesantes.  📚
